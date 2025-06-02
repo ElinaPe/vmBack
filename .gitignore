@@ -1,0 +1,8 @@
+# Ignore environment secrets
+.env
+
+# Ignore Firebase service account key
+**/vierumaki-42bc7-firebase-adminsdk-fbsvc-eba760a106.json
+
+# Ignore node_modules
+node_modules/
